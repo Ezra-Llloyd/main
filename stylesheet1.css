@@ -49,6 +49,7 @@ h1 {
     align-content: center;
     text-align: center;
     font-family: 'transportmedium';
+    font-size: 1.9em!important;
 
     margin-top: 20px;
 }
@@ -56,6 +57,7 @@ h1 span {
     background-color: white; 
     font-family: 'transportmedium';
     padding: 10px;
+    font-size: 1em!important;
 }
 .row {
     margin: 0 auto;
